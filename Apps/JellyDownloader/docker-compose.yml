@@ -1,4 +1,4 @@
-name: JellyDownloader
+name: jellydownloader
 services:
   JellyDownloader:
     image: ghcr.io/patrikmana/jellydownloader:latest
